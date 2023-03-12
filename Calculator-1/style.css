@@ -1,0 +1,27 @@
+
+
+html,body {
+  height: 100%;
+  width: 100%;
+   font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik Iso', cursive;
+}
+
+button{
+   padding: 20px;
+   margin: 0 3px;
+  border: 2px solid black;
+  cursor: pointer;
+  color: black;
+  background-color: cyan;
+}
+.row{
+  margin: 8px 0px;
+}
+.row input{
+       font-size: 18px;
+    margin: 0px;
+    padding: 18px 10px;
+    border: 2px solid black;
+}
+
